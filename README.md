@@ -14,6 +14,13 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 git clone https://github.com/jduckles/RStudio_electron
 # Go into the repository
 cd RStudio_electron
+# Edit main.js
+
+
+// SET THIS TO YOUR RSTUDIO SERVER, NOT MINE
+mainWindow.loadURL('https://yourserver.com:8787')
+
+
 # Install dependencies
 npm install
 # Run the app
