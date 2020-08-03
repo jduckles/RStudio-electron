@@ -12,7 +12,7 @@ function createWindow () {
     }
   })
 
-  // and load the index.html of the app.
+  // SET THIS TO YOUR RSTUDIO SERVER, NOT MINE
   mainWindow.loadURL('https://rstudio.duckles.nz')
 
   // Open the DevTools.
