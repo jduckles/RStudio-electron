@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/jduckles/electron-rstudio",
+  "repository": "https://github.com/jduckles/RStudio-electron",
   "keywords": [
     "RStudio",
     "electron"
