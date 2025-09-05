@@ -14,6 +14,6 @@
   "author": "jduckles",
   "license": "CC0",
   "devDependencies": {
-    "electron": "^28.3.2"
+    "electron": "^35.7.5"
   }
 }
